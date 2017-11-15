@@ -18,7 +18,7 @@ var loadState = {
         game.load.image('win', 'assets/win.png');
         game.load.image('cage', 'assets/cage.png');
         game.load.image('menuF', 'assets/mainMenu.png');
-        game.load.image('over', 'assets/game over.png');
+        game.load.image('over', 'assets/perdiste.png');
         game.load.image('fondo', 'assets/background.png');
         game.load.image('piso', 'assets/piso.png');
         game.load.image('platform', 'assets/plataforma.png');
