@@ -363,6 +363,7 @@ function endGame (jugador, princesa){
 
 function win() {
     puntaje = 0;
+    arrBarriles = [];
     generar = 2;
     nBarriles = 0;
     end = 0;
